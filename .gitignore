@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+*.log
+*.tsbuildinfo
+
+# Never commit resumes
+resumes/*.pdf
+resumes/*.doc
+resumes/*.docx
+
+# OS
+.DS_Store
+Thumbs.db
